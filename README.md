@@ -28,7 +28,7 @@ sudo add-apt-repository "deb https://mikoto2000.github.io/athrill-apt bionic mai
 ### Install Athrill
 
 ```sh
-apt-get update
-apt-get install athrill-rh850f1x
+sudo apt-get update
+sudo apt-get install athrill-rh850f1x
 ```
 
