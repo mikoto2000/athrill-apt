@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: TOPPERS/hakoniwa
+Label: Athrill
+Codename: bionic
+Date: Sun, 04 Oct 2020 18:19:56 UTC
+Architectures: amd64
+Components: main
+Description: Apt repository for project Athrill
+MD5Sum:
+ f8bddfe060df73a1160ebcc72c59e73f 632 main/binary-amd64/Packages
+ 66aeef25b575d55d94c89b5b9e910b27 413 main/binary-amd64/Packages.gz
+ 66a408222718622dbf1299628d6ad791 124 main/binary-amd64/Release
+SHA1:
+ 69775dec53f967a478b6a64a1cd0076bd3a288a8 632 main/binary-amd64/Packages
+ 3d554e815c610d519d75c4cd0c3072e234faa5d9 413 main/binary-amd64/Packages.gz
+ 6c0b8f4b4ba5422f4481f7d135e251b595bed53a 124 main/binary-amd64/Release
+SHA256:
+ 75753b75f24c420aab91e5546fbc9a9f324b3a9d00e79e6a0ec25c4203b44415 632 main/binary-amd64/Packages
+ 976f486d443c364573f8edf8098db7a11c1c17acb36df9be42ecdd7ed174932a 413 main/binary-amd64/Packages.gz
+ 15da02c5cf64a8b671812ba165d6444e2c6ccba17875204a2bd90eb021eb915d 124 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEE7Ko2fxqoLr3HtTHr+/AAjjaXuIFAl96EkwACgkQr+/AAjja
+XuLjtBAAoO8l+IXzRtuuutscH28FBcwkOKw2ow6Kg3QxLcJejKPZzNR5gWPjfZKa
+AuYFGX80vjzuw0GyvN0Ww5vgzgMw6y3Vyh5GPQ8FInTsjojDWbH9zT5RoTovYRiG
+HtEk0axXUTEfCS03CaN7dRNA3JWxSFsIHL26rEZM49BW/qGwS/vmosQO/TdZRJvC
+ZbZC1zv1ZWq6XTjWSzeqcmF3sAIxzTymI6MO00AccmBVspjpIEY3e0xN+G8c2STn
+grFRNbdWvGq8Q0Abo7k0qAFKQWQmGU3umJ//aTKkV0opqUi8le/PFiTf3Wv5db4R
+shG8R711ZFnKj9vb07w3P5Wc5JwJvKQUngMy+NXWmkrh1lqUGdnxkRuWm5TyNtWE
+XkfjNrFMBWMwh28FvVoMqH0rhgxeK0qAetEsr5plXq+zCr7LFcjO6C1+I2wiTXSO
+bD9HSWsWg9sawZKrKJKjXZglfGEgjhCCrXaXrFUcJpOBA5KCR6lajvIE2HvbnYEI
+sTkEkvqTaksHe8hlaBUQBo4nZBH1CjGVppHkzOHFfHDLPSqATarFAsV9VnuzueP1
+tnjZEIx2WIE3E1PmLuRnOMVpfeyXn0V/XW+5kXlJdnRQfihJXYuzgYBmaQIokSkE
+lyw4gji3IbNQIVARbwaFSt207p/GMNfyoyt05Qie3oRbYS9Y0Pc=
+=Zwfw
+-----END PGP SIGNATURE-----

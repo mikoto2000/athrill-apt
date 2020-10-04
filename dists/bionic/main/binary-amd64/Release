@@ -1,0 +1,5 @@
+Component: main
+Origin: TOPPERS/hakoniwa
+Label: Athrill
+Architecture: amd64
+Description: Apt repository for project Athrill
