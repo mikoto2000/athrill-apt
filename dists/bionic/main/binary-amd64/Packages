@@ -1,18 +1,18 @@
 Package: athrill-rh850f1x
-Version: 0.A.1-1
+Version: 0.A.1-2
 Architecture: amd64
 Bugs: https://github.com/toppers/athrill-target-rh850f1x
 Maintainer: kanetugu2015 <kanetugu2015@gmail.com>
-Installed-Size: 5638
+Installed-Size: 5673
 Depends: libc6 (>= 2.17)
 Homepage: https://github.com/toppers/athrill-target-rh850f1x
 Priority: optional
 Section: misc
-Filename: pool/main/a/athrill-rh850f1x/athrill-rh850f1x_0.A.1-1_amd64.deb
-Size: 176944
-SHA256: 4e58b99e428b43da3a691241cdbc3f142ee15e930f2ccbf8851dc20433992dd6
-SHA1: 2fcc194616a54e903d5b1d872d0767708ea84e83
-MD5sum: 97fdaa99d3c12ecb534ae40893f2aece
+Filename: pool/main/a/athrill-rh850f1x/athrill-rh850f1x_0.A.1-2_amd64.deb
+Size: 182144
+SHA256: 73e1a38219da8589cafc5d92d8b105072cc460a6994b92d37665f30c6bc54ba2
+SHA1: 781d3dc3f72e1c2ee43b157bdcad0d8a4eb7547a
+MD5sum: 14fadb00e0a8acfdfd173b6113b2e20a
 Description: Athrill emulator for RH850F1x.
  Athrill core version: 1.1.1
 
