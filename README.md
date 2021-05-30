@@ -5,6 +5,8 @@
 ### OS requirements
 
 - Ubuntu bionic 18.04(LTS)
+- Ubuntu focal 20.04(LTS)
+- Debian buster
 
 ### Install required packages
 
