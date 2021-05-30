@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: TOPPERS/hakoniwa
+Label: Athrill
+Codename: buster
+Date: Sun, 30 May 2021 16:33:13 UTC
+Architectures: amd64
+Components: main
+Description: Apt repository for project Athrill
+MD5Sum:
+ c1db7c8ac0170943e128d91b905f1c73 632 main/binary-amd64/Packages
+ 5ef758f2081b6b45f30c930d61d0b736 416 main/binary-amd64/Packages.gz
+ 66a408222718622dbf1299628d6ad791 124 main/binary-amd64/Release
+SHA1:
+ 0935a70a81ee343b3152c80cb8640535de9f1957 632 main/binary-amd64/Packages
+ cde830eb1c31480d80a3848e6f36d7fc745ae08c 416 main/binary-amd64/Packages.gz
+ 6c0b8f4b4ba5422f4481f7d135e251b595bed53a 124 main/binary-amd64/Release
+SHA256:
+ 54f6593f57f0cd22bc0caedc11255f5c6e029b37b742d0aa910f4f4fe62fa738 632 main/binary-amd64/Packages
+ 3657b63dab6d954bc4fb93eead2fba2bd3fbd3ef3a826b12410a65a653210097 416 main/binary-amd64/Packages.gz
+ 15da02c5cf64a8b671812ba165d6444e2c6ccba17875204a2bd90eb021eb915d 124 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEE7Ko2fxqoLr3HtTHr+/AAjjaXuIFAmCzvkkACgkQr+/AAjja
+XuK4vg//U91F5BOwAWlUwCyBPdv6XSO28SQQze1zSSpTkaJQeDrXdn/y75n9q4p4
+OuNs8Oy/FjQDTtyqjwwUR4bz4DqfQQgpVX/MEtp3cSGB4+J4OUUQcjkQvS7zR9Au
+ujtfO1c7ifosssriQifkEwvafO67nFjp87C1qFnIyITbirv0FCX8OI+m4PxLo7jH
+/6RdzroLfdf9BnO553sbeh3SXNLgFc3imaDkYuqesaRQy0ZD4hAny7rLJ1+x5QeQ
+HqXl5VREjPXKFeVvzptamHmpoIovXNSYapjf3Ee6s3aVUG5GY/SuKlelpPDQK/5r
+h3BluH8i//R+g429KW6a53gQFaEeXrhMw4uzAN+Yed6ZECQOBcpZBRqOXhjJqFYY
+Drt9quswrX2jRCKi3fztaPG0YpfemudKw+/6+WopbCYRaBXoSikbzVTA6EiGcnMe
+AhKBLalqp2i7KwIZocN0rX2BOspR20yrEpYYDJq6Hxep3/ugY6nj/sa3kZZhkrJL
+Tinte9OmzB5VFK19ZqGC/xtSnNjkEGajHMAz09yQLvhkpMV71A/W5fs7lm5RtNqY
+YrZUQs89zPj/gyhgQaZr1gek30M/CM2d8ghEslVSgZ0pDmJC6zfMlDjgapN/pLjB
+2eS5BZ5BNAM4Xk6D9uzuZtRknuB6/WI7s/OXdZSqs4J1T11KzCk=
+=n/XI
+-----END PGP SIGNATURE-----

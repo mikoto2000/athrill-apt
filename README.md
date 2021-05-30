@@ -21,8 +21,22 @@ curl -fsSL https://mikoto2000.github.io/athrill-apt/athrill.gpg.key | sudo apt-k
 
 ### Add Athrill repository
 
+#### bionic
+
 ```sh
-sudo add-apt-repository "deb https://mikoto2000.github.io/athrill-apt bionic main"
+sudo add-apt-repository "deb https://mikoto2000.github.io/athrill-apt/ubuntu bionic main"
+```
+
+#### focal
+
+```sh
+sudo add-apt-repository "deb https://mikoto2000.github.io/athrill-apt/ubuntu focal main"
+```
+
+#### buster
+
+```sh
+sudo add-apt-repository "deb https://mikoto2000.github.io/athrill-apt/debian buster main"
 ```
 
 ### Install Athrill
